@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "jhipsterVersion": "6.0.1",
+    "applicationType": "monolith",
+    "baseName": "terraformui",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "oracle",
+    "prodDatabaseType": "oracle",
+    "testFrameworks": ["protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "skipServer": true
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-service",
+  "version": "1.0.0",
+  "description": "Sample Node JS and express service for webservices",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "Venkata Nidumukkala",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
